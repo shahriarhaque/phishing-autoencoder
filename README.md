@@ -38,5 +38,5 @@ Please refer to [this link](https://github.com/shahriarhaque/themis#steps-to-vis
 Same as above
 
 ## Training and evaluating the model
-  2) Run `train_lstm_attn_autoencoder.py` with same arguments as before. This script both builds the model and evaluates it.
+  1) Run `train_lstm_attn_autoencoder.py` with same arguments as before. This script both builds the model and evaluates it.
 
