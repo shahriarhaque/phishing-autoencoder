@@ -31,3 +31,12 @@ Please refer to [this link](https://github.com/shahriarhaque/themis#steps-to-vis
 ## Evaluate the model
   1) Run `evaluate_autoencoder.py` with the tokenized phishing file as the argument to `input_data`
   2) Run `evaluate_autoencoder.py` once again with the tokenized legitimate file as the argument to `input_data`
+  
+# LSTM + Attention Based Phishing Detection (Experimental)
+
+## Tokenizing the training data
+Same as above
+
+## Training and evaluating the model
+  2) Run `train_lstm_attn_autoencoder.py` with same arguments as before. This script both builds the model and evaluates it.
+
